@@ -1,0 +1,28 @@
+.logo{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.container{
+    position: absolute;
+    background: linear-gradient(90deg,#CCCFDB , white);
+    
+}
+.map{
+    position: absolute;
+    min-width: 1300px;
+    width: 1300px;
+    min-height: 666px;
+    height: 666px;
+    object-fit: cover;
+}
+.modal{
+    position:absolute;
+    width: 500px;
+    height: 450px;
+    margin-top: 80px;
+    margin-left: 700px;
+    
+
+    
+}

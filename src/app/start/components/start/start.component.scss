@@ -1,0 +1,41 @@
+.logo{
+    
+    margin-top: 30px;
+    margin-left:  70px;
+}
+.container{
+    
+    margin: 0;
+    
+}
+.container1{
+    width: 500px;
+    height: 510px;
+
+}
+.container2{
+    min-height: 656px;
+    
+}
+
+
+.imgstart{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 0;
+    cursor: pointer;
+    object-fit: cover;
+    transition: all 500ms ease;
+}
+.imgstart:hover{
+    width: 400px;
+    height: 400px;
+    transition: all 500ms ease;
+    
+}
+.imgwave{
+    width: 700px;
+    object-fit: cover;
+    
+}
